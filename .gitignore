@@ -1,0 +1,16 @@
+### Build related ###
+.gradle/*
+gradle/*
+target/*
+out/*
+build/*
+logs/*
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Mac OS ###
+.DS_Store
